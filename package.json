@@ -1,0 +1,23 @@
+{
+  "name": "Calendar-Homework",
+  "version": "1.0.0",
+  "description": "Calendar-App is simple calendar application that allows a user to save events for each hour of the day. It runs in the browser and features dynamically updated HTML and CSS powered by jQuery.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseSachango/Calendar-Homework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseSachango/Calendar-Homework/issues"
+  },
+  "homepage": "https://github.com/JoseSachango/Calendar-Homework#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
